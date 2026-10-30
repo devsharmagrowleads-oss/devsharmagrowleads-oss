@@ -5,8 +5,8 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · devsharmagrowleads-oss</sub></p>
 <h1>Dev Sharma</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
+<h2>AI Engineer</h2>
+<p>Building useful Products and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/devsharmagrowleads-oss">GitHub</a></p>
