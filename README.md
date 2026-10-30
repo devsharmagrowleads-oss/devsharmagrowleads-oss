@@ -35,9 +35,9 @@
 <table width="100%">
 <tr>
 <td width="25%" align="center"><strong>19</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>100</strong><br /><sub>Stars</sub></td>
 <td width="25%" align="center"><strong>205</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>1K+</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
 
