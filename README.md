@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · devsharmagrowleads-oss</sub></p>
+<p><sub>dev.sharma@growleads.io · devsharmagrowleads-oss</sub></p>
 <h1>Dev Sharma</h1>
 <h2>AI Engineer</h2>
 <p>Building useful Products and sharing the work in public.</p>
