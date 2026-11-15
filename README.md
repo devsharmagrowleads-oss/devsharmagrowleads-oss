@@ -54,8 +54,8 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=devsharmagrowleads-oss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F287982018%3Fu%3D572ae015663d1486b1eccffee8bff0fc3c5576c8%26v%3D4&repos=devsharmagrowleads-oss%2Fclient-portal%2Cdevsharmagrowleads-oss%2FAi-Summit-Exhibitor-Extractor-%2Cdevsharmagrowleads-oss%2Freddit-subreddit-bot%2Cdevsharmagrowleads-oss%2Fhumanizer-plugin&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=devsharmagrowleads-oss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F287982018%3Fu%3D572ae015663d1486b1eccffee8bff0fc3c5576c8%26v%3D4&repos=devsharmagrowleads-oss%2Fclient-portal%2Cdevsharmagrowleads-oss%2FAi-Summit-Exhibitor-Extractor-%2Cdevsharmagrowleads-oss%2Freddit-subreddit-bot%2Cdevsharmagrowleads-oss%2Fhumanizer-plugin&v=recruiter-projects-1&mode=dark" width="100%" alt="Dev Sharma selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=devsharmagrowleads-oss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F287982018%3Fu%3D572ae015663d1486b1eccffee8bff0fc3c5576c8%26v%3D4&repos=devsharmagrowleads-oss%2Fclient-portal%2Cdevsharmagrowleads-oss%2Freddit-subreddit-bot%2Cdevsharmagrowleads-oss%2Fhumanizer-plugin&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=devsharmagrowleads-oss&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F287982018%3Fu%3D572ae015663d1486b1eccffee8bff0fc3c5576c8%26v%3D4&repos=devsharmagrowleads-oss%2Fclient-portal%2Cdevsharmagrowleads-oss%2Freddit-subreddit-bot%2Cdevsharmagrowleads-oss%2Fhumanizer-plugin&v=recruiter-projects-1&mode=dark" width="100%" alt="Dev Sharma selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -69,9 +69,12 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/devsharmagrowleads-oss/Ai-Summit-Exhibitor-Extractor-">Ai-Summit-Exhibitor-Extractor-</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/devsharmagrowleads-oss/handle-scout">handle-scout</a></h3><p>Check one name across domains and 35 platforms: honest available / taken / unknown results, ranked alternatives, optional registrar prices. Web app and CLI.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/devsharmagrowleads-oss/reddit-subreddit-bot">reddit-subreddit-bot</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
 <td width="33%" valign="top"><h3><a href="https://github.com/devsharmagrowleads-oss/humanizer-plugin">humanizer-plugin</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/devsharmagrowleads-oss/ui-polish-kit">ui-polish-kit</a></h3><p>Rules, recipes and an audit that stop AI coding agents from shipping generic, unfinished UI.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
